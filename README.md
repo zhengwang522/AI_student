@@ -1,1 +1,1 @@
-# AI_student
+# Blog
